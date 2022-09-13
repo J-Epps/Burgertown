@@ -1,7 +1,7 @@
 import { CssBaseline } from "@material-ui/core";
 import React from "react";
-import Banner from "/src/components/HeroBanner.js";
-import Hero from "/src/components/Hero.js";
+import Banner from "../components/HeroBanner";
+import Hero from "../components/Hero.js";
 
 function Home() {
   return (
